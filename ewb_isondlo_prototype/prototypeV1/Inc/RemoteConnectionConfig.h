@@ -18,5 +18,5 @@ class RemoteConnectionConfig {
         void reset();
 };
 
-extern RemoteConnectionConfig remoteconnectionconfig
+extern RemoteConnectionConfig remoteconnectionconfig;
 #endif
