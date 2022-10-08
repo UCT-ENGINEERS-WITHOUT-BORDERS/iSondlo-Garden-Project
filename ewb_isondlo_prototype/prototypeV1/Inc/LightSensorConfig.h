@@ -10,9 +10,10 @@
 #ifndef LightSensorConfig_h
 #define LightSensorConfig_h
 
-#include "Arduino.h"
-
 class LightSensorConfig {
-    
-}
+  public:
+      void setup();
+      void lowlight_trigger(int low_light_val);
+};
+extern LightSensorConfig lightsensorconfig;
 #endif
