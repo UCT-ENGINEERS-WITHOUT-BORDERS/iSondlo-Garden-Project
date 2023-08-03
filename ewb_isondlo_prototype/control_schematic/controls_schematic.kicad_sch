@@ -1149,6 +1149,13 @@
     (effects (font (size 2.5 2.5)) (justify left bottom))
     (uuid 67b8905c-42c3-4a48-946e-224c9028a604)
   )
+<<<<<<< HEAD
+=======
+  (text "Trigger High" (at 713.74 482.6 0)
+    (effects (font (size 2.5 2.5)) (justify left bottom))
+    (uuid 681d1b2f-ef07-43e9-a93e-df75b59f0db1)
+  )
+>>>>>>> d1b7902dbed6321f946f617133ee1094fdbc0f0c
   (text "SIM900a" (at 763.27 680.72 90)
     (effects (font (size 3.5 3.5) (thickness 0.6) bold) (justify left bottom))
     (uuid 68dab5fc-dd83-4110-9639-5cbe3993f238)
@@ -1173,6 +1180,13 @@
     (effects (font (size 2.5 2.5)) (justify left bottom))
     (uuid 704b728b-53a3-4f21-ac6d-3626e91501ee)
   )
+<<<<<<< HEAD
+=======
+  (text "GND" (at 728.98 500.38 0)
+    (effects (font (size 2.5 2.5)) (justify left bottom))
+    (uuid 763659ba-d2cb-4db9-84eb-42ea624fe7a6)
+  )
+>>>>>>> d1b7902dbed6321f946f617133ee1094fdbc0f0c
   (text "DQ" (at 740.41 393.7 0)
     (effects (font (size 2.7 2.7)) (justify left bottom))
     (uuid 79cded30-3a97-4282-b6bb-f9f83f428536)
@@ -1317,6 +1331,13 @@
     (effects (font (size 2.5 2.5)) (justify left bottom))
     (uuid e98c592e-665c-4c04-8fb9-b0892df617b0)
   )
+<<<<<<< HEAD
+=======
+  (text "5V (Power Line)" (at 707.39 459.74 0)
+    (effects (font (size 2.5 2.5)) (justify left bottom))
+    (uuid f0ae760c-48e1-4918-8393-48087406178f)
+  )
+>>>>>>> d1b7902dbed6321f946f617133ee1094fdbc0f0c
   (text "PWM D6" (at 539.75 492.76 0)
     (effects (font (size 2.5 2.5)) (justify left bottom))
     (uuid f19a3ade-c151-4ec8-883a-9a2d9f725095)

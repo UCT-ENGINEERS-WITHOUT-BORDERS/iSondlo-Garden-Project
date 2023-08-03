@@ -212,7 +212,11 @@
       "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
+<<<<<<< HEAD
       "simulation_model_issue": "ignore",
+=======
+      "simulation_model_issue": "error",
+>>>>>>> d1b7902dbed6321f946f617133ee1094fdbc0f0c
       "unannotated": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
@@ -289,6 +293,7 @@
       "version": 1
     },
     "net_format_name": "",
+<<<<<<< HEAD
     "ngspice": {
       "fix_include_paths": true,
       "fix_passive_vals": false,
@@ -301,6 +306,10 @@
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
+=======
+    "page_layout_descr_file": "",
+    "plot_directory": "",
+>>>>>>> d1b7902dbed6321f946f617133ee1094fdbc0f0c
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,

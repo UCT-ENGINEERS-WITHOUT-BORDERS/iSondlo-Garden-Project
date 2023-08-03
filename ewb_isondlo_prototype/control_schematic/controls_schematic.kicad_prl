@@ -14,7 +14,10 @@
       "vias": 1.0,
       "zones": 0.6
     },
+<<<<<<< HEAD
     "ratsnest_display_mode": 0,
+=======
+>>>>>>> d1b7902dbed6321f946f617133ee1094fdbc0f0c
     "selection_filter": {
       "dimensions": true,
       "footprints": true,
